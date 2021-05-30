@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">MedicationStatement</string>
+    <string name="gyogyszer_nyilatkozat">Gyógyszer nyilatkozat</string>
+    <string name="gyogyszer_tajekoztat">Gyógyszer tájékoztató</string>
+    <string name="gyogyszer_tajekoztatok_listaja">Gyógyszer tájékoztatók listája</string>
+    <string name="gy_t_l">Gyógyszer tájékoztató listája</string>
+    <string name="hozzadas">Hozzáadás</string>
+    <string name="basedOn">Mire épül a gyógyszerkezellés?</string>
+    <string name="partOf">Milyen terápia része?</string>
+    <string name="add">Hozzáad</string>
+    <string name="back">vissza</string>
+    <string name="gyogyszer">Gyógyszer:</string>
+    <string name="alany">Alany:</string>
+    <string name="reszletek">Részletek</string>
+    <string name="statusReason">Jelenlegi státusz oka?</string>
+    <string name="category">Gyógyszerhasználat módja?</string>
+    <string name="a_haszn_ltos_gy_gyszer">A használtos gyógyszer</string>
+    <string name="delete">Törlés</string>
+
+    <string-array name="status">
+        <item>Aktív</item>
+        <item>Befejezett</item>
+        <item>Hibába futott</item>
+        <item>Tervben van</item>
+        <item>Szünetle</item>
+        <item>Fenntartott</item>
+        <item>Nem alkalmazott</item>
+    </string-array>
+
+    <string name="title_activity_scrolling">ScrollingActivity</string>
+    <string name="large_text"> </string>
+    <string name="action_settings">Settings</string>
+    <string name="gy_gyszeres_kezel_s_kezdete">Gyógyszeres kezelés kezdete:</string>
+    <string name="gy_gyszeres_kezel_s_v_ge">Gyógyszeres kezelés vége:</string>
+    <string name="kezdete_v_ge">Kezdete/vége</string>
+</resources>
